@@ -1,6 +1,3 @@
 theme: minima
-title: Corey Oliphant Mac & Development Blog
+title: Corey's Mac & Development Blog
 url: https://manicmachine.github.io
-description: 
-plugins:
-  - jekyll-feed
